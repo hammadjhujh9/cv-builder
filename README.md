@@ -23,7 +23,7 @@ CV Builder is an Android application built using Android Studio that allows user
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/cv-builder.git
+   git clone git@github.com:hammadjhujh9/cv-builder.git
    cd cv-builder
    ```  
 2. Open the project in **Android Studio**.  
@@ -33,4 +33,4 @@ CV Builder is an Android application built using Android Studio that allows user
 Contributions are welcome! Feel free to submit a pull request or open an issue for feature requests or bug reports.  
 
 ## License  
-This project is licensed under the MIT License.  
+This project is licensed under the MIT License.
