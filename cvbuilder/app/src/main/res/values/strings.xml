@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">cv-builder</string>
+    <string name="app_name">Build Your CV</string>
+    <string name="app_logo">CV Builder Logo</string>
+
 </resources>
+
+<!--<string-array name="degree_levels">-->
+<!--<item>Matriculation</item>-->
+<!--<item>Intermediate</item>-->
+<!--<item>Bachelors</item>-->
+<!--</string-array>-->
